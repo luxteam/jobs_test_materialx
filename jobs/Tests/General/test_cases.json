@@ -1,0 +1,13 @@
+[
+    {
+        "case": "MATERIALX_GEN_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_brass_tiled.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Sample test case"
+        ]
+    }
+]
