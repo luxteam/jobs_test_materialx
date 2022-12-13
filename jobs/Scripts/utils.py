@@ -133,8 +133,8 @@ def save_image(image_path, image_resolution=(1325, 681)):
     resolution_x = win32api.GetSystemMetrics(0)
     resolution_y = win32api.GetSystemMetrics(1)
 
-    border_x = int(resolution_x / 2 - image_resolution[0])
-    border_y = int(resolution_y / 2 - image_resolution[1])
+    border_x = int((resolution_x - image_resolution[0]) / 2)
+    border_y = int((resolution_y - image_resolution[1]) / 2)
 
     image_region = (border_x, border_y, resolution_x - border_x, resolution_y - border_y)
 
