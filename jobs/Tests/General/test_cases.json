@@ -1,6 +1,6 @@
 [
     {
-        "case": "MATERIALX_GEN_001",
+        "case": "HDRPR_MATERIALX_COMPOSITING_NODES_001",
         "status": "active",
         "mesh_path": "sphere.obj",
         "material_path": "standard_surface_brass_tiled.mtlx",
