@@ -211,6 +211,8 @@ def execute_tests(args, current_conf):
 
                 sleep(5)
 
+                utils.save_image(image_path)
+
                 execution_time = time() - case_start_time
 
                 if case["status"] == "active":
