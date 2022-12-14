@@ -12,7 +12,7 @@
  `git submodule init`
  `git submodule update`
 
- 4. Put folders with scenes in `C:/TestResources/materialx_autotests_assets` and baselines in `C:/TestResources/materialx_autotests_baselines`.
+ 4. Put folders with scenes in `C:/TestResources/materialx_autotests_assets`.
  
     ***You should use the specific scenes which defined in `test_cases.json` files in `jobs/Tests/` folders.***
 
