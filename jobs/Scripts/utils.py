@@ -129,14 +129,14 @@ def is_case_skipped(case, render_platform):
     return False 
 
 
-def save_image(image_path, image_resolution=(1325, 681)):
+def save_image(image_path, image_resolution=(1005, 452)):
     resolution_x = win32api.GetSystemMetrics(0)
     resolution_y = win32api.GetSystemMetrics(1)
 
     border_x = int((resolution_x - image_resolution[0]) / 2)
     border_y = int((resolution_y - image_resolution[1]) / 2)
 
-    image_region = (border_x, border_y, resolution_x - border_x, resolution_y - border_y)
+    image_region = (border_x, border_y, image_resolution[0] + border_x, image_resolution[1] + border_y)
 
     screen = pyscreenshot.grab(bbox=image_region)
     screen = screen.convert("RGB")
