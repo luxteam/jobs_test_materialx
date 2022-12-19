@@ -7,7 +7,282 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Sample test case"
+            "standard surface brass tiled"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_brick_procedural.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface brick procedural"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_carpaint.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface carpaint"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_chess_set.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface chess set"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_chrome.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface chrome"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_copper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface copper"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_default.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface default"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_glass.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface glass"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_glass_tinted.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface glass tinted"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_gold.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface gold"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_greysphere.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface greysphere"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_greysphere_calibration.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface greysphere calibration"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_jade.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface jade"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_look_brass_tiled.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface look brass tiled"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_look_wood_tiled.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface look wood tiled"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_marble_solid.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface marble solid"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_metal_brushed.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface metal brushed"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_plastic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface plastic"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_thin_film.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface thin film"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_velvet.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface velvet"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "standard_surface_wood_tiled.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "standard surface wood tiled"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "usd_preview_surface_brass_tiled.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "usd preview surface brass tiled"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "usd_preview_surface_default.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "usd preview surface default"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "usd_preview_surface_glass.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "usd preview surface glass"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "usd_preview_surface_gold.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "usd preview surface gold"
+        ]
+    },
+    {
+        "case": "MTLX_VS_HDRPR_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "usd_preview_surface_plastic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "usd preview surface plastic"
         ]
     }
 ]
