@@ -238,7 +238,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "usd preview surface brass tiled"
+            "surface brass tiled"
         ]
     },
     {
@@ -249,7 +249,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "usd preview surface default"
+            "surface default"
         ]
     },
     {
@@ -260,7 +260,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "usd preview surface glass"
+            "surface glass"
         ]
     },
     {
@@ -271,7 +271,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "usd preview surface gold"
+            "surface gold"
         ]
     },
     {
@@ -282,7 +282,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "usd preview surface plastic"
+            "surface plastic"
         ]
     }
 ]
