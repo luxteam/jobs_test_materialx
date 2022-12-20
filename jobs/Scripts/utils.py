@@ -172,7 +172,16 @@ def enable_environment_drawing():
     advanced_setting_location = locate_on_screen(MaterialXElements.ADVANCED_SETTINGS.build_path())
     click_on_element(advanced_setting_location)
     time.sleep(1)
-    locate_and_click(MaterialXElements.DRAW_ENVIRONMENT.build_path())
+
+    try:
+        locate_and_click(MaterialXElements.DRAW_ENVIRONMENT.build_path())
+    except:
+        # MaterialX viewer can require som etime to load environment file
+        time.sleep(15)
+        click_on_element(advanced_setting_location)
+        time.sleep(1)
+        locate_and_click(MaterialXElements.DRAW_ENVIRONMENT.build_path())
+
     time.sleep(0.5)
     click_on_element(advanced_setting_location)
     time.sleep(0.5)
