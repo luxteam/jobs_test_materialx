@@ -187,6 +187,14 @@ def enable_environment_drawing():
     time.sleep(0.5)
 
 
+def zoom_scene():
+    pyautogui.moveTo(500, 500)
+
+    for i in range(3):
+       pyautogui.scroll(-3)
+       time.sleep(0.05)
+
+
 def locate_on_screen(template, tries=3, confidence=0.9, **kwargs):
     coords = None
     if not "confidence" in kwargs:
