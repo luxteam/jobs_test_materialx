@@ -9,4 +9,4 @@ show_sync_time = False
 show_execution_time = True
 show_render_log = False
 show_performance_tab = False
-configurations_order = ["MaterialX", "HybridPro", "Northstar"]
+configurations_order = ["MaterialX", "Northstar", "HybridPro"]
