@@ -209,6 +209,8 @@ def execute_tests(args, current_conf):
                 if "enable_environment_drawing" in case and case["enable_environment_drawing"]:
                     utils.enable_environment_drawing()
 
+                utils.zoom_scene()
+
                 sleep(5)
 
                 utils.save_image(image_path)
