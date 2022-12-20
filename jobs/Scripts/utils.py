@@ -129,14 +129,14 @@ def is_case_skipped(case, render_platform):
     return False 
 
 
-def save_image(image_path, image_resolution=(1005, 452)):
+def save_image(image_path, image_resolution=(1005, 452), offset=(0, -14)):
     resolution_x = win32api.GetSystemMetrics(0)
     resolution_y = win32api.GetSystemMetrics(1)
 
     border_x = int((resolution_x - image_resolution[0]) / 2)
     border_y = int((resolution_y - image_resolution[1]) / 2)
 
-    image_region = (border_x, border_y, image_resolution[0] + border_x, image_resolution[1] + border_y)
+    image_region = (border_x + offset[0], border_y + offset[1], image_resolution[0] + border_x + offset[0], image_resolution[1] + border_y + offset[1])
 
     screen = pyscreenshot.grab(bbox=image_region)
     screen = screen.convert("RGB")
@@ -185,14 +185,6 @@ def enable_environment_drawing():
     time.sleep(0.5)
     click_on_element(advanced_setting_location)
     time.sleep(0.5)
-
-
-def zoom_scene():
-    pyautogui.moveTo(500, 500)
-
-    for i in range(3):
-       pyautogui.scroll(-3)
-       time.sleep(0.05)
 
 
 def locate_on_screen(template, tries=3, confidence=0.9, **kwargs):
