@@ -9,4 +9,4 @@ if not defined TOOL set TOOL="..\USD\build\bin\usdview"
 if not defined PYTHON set PYTHON="C:\Python37\python.exe"
 
 python -m pip install -r ..\jobs_launcher\install\requirements.txt
-python ..\jobs_launcher\executeTests.py --test_filter %TESTS_FILTER% --file_filter %FILE_FILTER% --tests_root ..\jobs --work_root ..\Work\Results --work_dir MaterialX --scale_thumbnails 1.5 --cmd_variables Tool ..\materialx\bin\MaterialXView.exe ResPath "C:\TestResources\materialx_autotests_assets" Retries %RETRIES%
+python ..\jobs_launcher\executeTests.py --test_filter %TESTS_FILTER% --file_filter %FILE_FILTER% --tests_root ..\jobs --work_root ..\Work\Results --work_dir MaterialX --scale_thumbnails 2.0 --cmd_variables Tool ..\materialx\bin\MaterialXView.exe ResPath "C:\TestResources\materialx_autotests_assets" Retries %RETRIES%
