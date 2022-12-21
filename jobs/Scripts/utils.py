@@ -90,7 +90,7 @@ def open_tool(script_path, execution_script):
         case_logger.info("Application window found")
 
     win32gui.ShowWindow(window_hwnd, win32con.SW_MAXIMIZE)
-    time.sleep(0.2)
+    time.sleep(3)
 
 
 def post_action():
@@ -164,7 +164,7 @@ def load_environment(environment_path):
     time.sleep(0.5)
     pyautogui.typewrite(environment_path)
     pyautogui.press("enter")
-    time.sleep(0.5)
+    time.sleep(3)
 
 
 def enable_environment_drawing():
