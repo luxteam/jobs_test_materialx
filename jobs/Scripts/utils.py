@@ -129,7 +129,7 @@ def is_case_skipped(case, render_platform):
     return False 
 
 
-def save_image(image_path, image_resolution=(1005, 452), offset=(0, -14)):
+def save_image(image_path, image_resolution=(1005, 452), offset=(0, -13)):
     resolution_x = win32api.GetSystemMetrics(0)
     resolution_y = win32api.GetSystemMetrics(1)
 

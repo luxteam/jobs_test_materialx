@@ -189,7 +189,7 @@ def execute_tests(args, current_conf):
                 if os.path.exists(image_path):
                     os.remove(image_path)
 
-                execution_script = os.path.abspath(f"{args.tool_path} --cameraPosition 0,0,5 --cameraZoom 0.677")
+                execution_script = os.path.abspath(f"{args.tool_path} --cameraPosition 0,0,5 --cameraZoom 0.663")
                 script_path = os.path.join(args.output, "{}.bat".format(case["case"]))
 
                 utils.open_tool(script_path, execution_script)
