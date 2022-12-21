@@ -3,7 +3,7 @@
         "case": "WML_001",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_Bark_Base.mtlx",
+        "material_path": "Bark_Bark_Base.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -14,7 +14,7 @@
         "case": "WML_002",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_Bark_Beech.mtlx",
+        "material_path": "Bark_Bark_Beech.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -25,7 +25,7 @@
         "case": "WML_003",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_Bark_Oak.mtlx",
+        "material_path": "Bark_Bark_Oak.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -36,7 +36,7 @@
         "case": "WML_004",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_Bark_Pine.mtlx",
+        "material_path": "Bark_Bark_Pine.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -47,7 +47,7 @@
         "case": "WML_005",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_Bark_Smooth.mtlx",
+        "material_path": "Bark_Bark_Smooth.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -58,7 +58,7 @@
         "case": "WML_006",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_TH_Bark_Brown.mtlx",
+        "material_path": "Bark_TH_Bark_Brown.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -70,7 +70,7 @@
         "status": "active",
         "scene": "WML/Bark_TH_Old_Bark_Brown.usda",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_TH_Old_Bark_Brown.mtlx",
+        "material_path": "Bark_TH_Old_Bark_Brown.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
@@ -81,7 +81,7 @@
         "case": "WML_008",
         "status": "active",
         "mesh_path": "sphere.obj",
-        "material_path": "WML/Bark_TH_Tree_Bark.mtlx",
+        "material_path": "Bark_TH_Tree_Bark.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
