@@ -189,6 +189,8 @@ def execute_tests(args, current_conf):
                 if os.path.exists(image_path):
                     os.remove(image_path)
 
+                additional_keys = ""
+
                 if "mesh_path" in case:
                     mesh_path = os.path.join(args.res_path, case["mesh_path"])
                     additional_keys = f"{additional_keys} --mesh \"{mesh_path}\""
