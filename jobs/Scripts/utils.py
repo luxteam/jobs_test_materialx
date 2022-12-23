@@ -5,6 +5,7 @@ import time
 import json
 import psutil
 from psutil import Popen, NoSuchProcess
+import subprocess
 from subprocess import PIPE
 import sys
 import traceback
