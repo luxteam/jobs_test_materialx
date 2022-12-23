@@ -87,18 +87,31 @@ def open_tool(script_path, execution_script):
     time.sleep(3)
 
     window_hwnd = None
+    application_window_found = False
 
-    for window in pyautogui.getAllWindows():
-        if "MaterialXView" in window.title:
-            window_hwnd = window._hWnd
-            break
+    if platform.system() == "Windows":
+        for window in pyautogui.getAllWindows():
+            if "MaterialXView" in window.title:
+                window_hwnd = window._hWnd
+                application_window_found = True
+                break
+    else:
+        process = subprocess.Popen("wmctrl -l", stdout=PIPE, shell=True)
+        stdout, stderr = process.communicate()
+        windows = [" ".join(x.split()[3::]) for x in stdout.decode("utf-8").strip().split("\n")]
 
-    if not window_hwnd:
+        for window in windows:
+            if "MaterialXView" in window:
+                application_window_found = True
+
+    if not application_window_found:
         raise Exception("Application window not found")
     else:
         case_logger.info("Application window found")
 
-    win32gui.ShowWindow(window_hwnd, win32con.SW_MAXIMIZE)
+    if platform.system() == "Windows":
+        win32gui.ShowWindow(window_hwnd, win32con.SW_MAXIMIZE)
+
     time.sleep(3)
 
 
