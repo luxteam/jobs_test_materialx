@@ -2,9 +2,6 @@ import os
 import logging
 import pyautogui
 import time
-import win32api
-import win32gui
-import win32con
 import json
 import psutil
 from psutil import Popen, NoSuchProcess
@@ -14,7 +11,13 @@ import traceback
 from PIL import Image
 import pyscreenshot
 from datetime import datetime
+import platform
 from elements import MaterialXElements
+
+if platform.system() == "Windows":
+    import win32api
+    import win32gui
+    import win32con
 
 sys.path.append(os.path.abspath(os.path.join(
     os.path.dirname(__file__), os.path.pardir, os.path.pardir)))
@@ -70,7 +73,12 @@ def open_tool(script_path, execution_script):
     with open(script_path, "w") as f:
         f.write(execution_script)
 
-    pyautogui.hotkey("win", "m")
+    if platform.system() == "Windows":
+        pyautogui.hotkey("win", "m")
+    else:
+        pyautogui.hotkey("win", "d")
+        os.system(f"chmod +x {script_path}")
+
     time.sleep(1)
 
     process = psutil.Popen(script_path, stdout=PIPE, stderr=PIPE, shell=True)
@@ -90,7 +98,7 @@ def open_tool(script_path, execution_script):
         case_logger.info("Application window found")
 
     win32gui.ShowWindow(window_hwnd, win32con.SW_MAXIMIZE)
-    time.sleep(0.2)
+    time.sleep(3)
 
 
 def post_action():
@@ -129,9 +137,8 @@ def is_case_skipped(case, render_platform):
     return False 
 
 
-def save_image(image_path, image_resolution=(1005, 452), offset=(0, -14)):
-    resolution_x = win32api.GetSystemMetrics(0)
-    resolution_y = win32api.GetSystemMetrics(1)
+def save_image(image_path, image_resolution=(1005, 452), offset=(0, -13)):
+    resolution_x, resolution_y = get_resolution()
 
     border_x = int((resolution_x - image_resolution[0]) / 2)
     border_y = int((resolution_y - image_resolution[1]) / 2)
@@ -164,7 +171,7 @@ def load_environment(environment_path):
     time.sleep(0.5)
     pyautogui.typewrite(environment_path)
     pyautogui.press("enter")
-    time.sleep(0.5)
+    time.sleep(3)
 
 
 def enable_environment_drawing():
@@ -264,3 +271,12 @@ def detect_render_finishing(max_delay=30):
             break
 
         make_viewport_screenshot(PREVIOUS_SCREEN_PATH)
+
+def get_resolution():
+    if platform.system() == "Windows":
+        return win32api.GetSystemMetrics(0), win32api.GetSystemMetrics(1)
+    else:
+        process = subprocess.Popen("xdpyinfo | awk '/dimensions/{print $2}'", stdout=PIPE, shell=True)
+        stdout, stderr = process.communicate()
+        resolution_x, resolution_y = stdout.decode("utf-8").strip().split("x")
+        return int(resolution_x), int(resolution_y)

@@ -6,7 +6,6 @@ from datetime import datetime
 from shutil import copyfile
 import sys
 import traceback
-import win32api
 from time import time
 from time import sleep
 import utils
@@ -179,7 +178,8 @@ def execute_tests(args, current_conf):
 
             try:
                 utils.case_logger.info(f"Start \"{case['case']}\" (try #{current_try})")
-                utils.case_logger.info(f"Screen resolution: width = {win32api.GetSystemMetrics(0)}, height = {win32api.GetSystemMetrics(1)}")
+                resolution_x, resolution_y = utils.get_resolution()
+                utils.case_logger.info(f"Screen resolution: width = {resolution_x}, height = {resolution_y}")
 
                 extension = extension if "extension" in case else "jpg"
                 image_path = os.path.abspath(os.path.join(args.output, "Color", f"{case['case']}.{extension}"))
@@ -189,27 +189,31 @@ def execute_tests(args, current_conf):
                 if os.path.exists(image_path):
                     os.remove(image_path)
 
-                execution_script = os.path.abspath(f"{args.tool_path} --cameraPosition 0,0,5 --cameraZoom 0.677")
-                script_path = os.path.join(args.output, "{}.bat".format(case["case"]))
-
-                utils.open_tool(script_path, execution_script)
-
                 if "mesh_path" in case:
                     mesh_path = os.path.join(args.res_path, case["mesh_path"])
-                    utils.load_mesh(mesh_path)
+                    additional_keys = f"{additional_keys} --mesh \"{mesh_path}\""
 
                 if "material_path" in case:
                     material_path = os.path.join(args.res_path, case["material_path"])
-                    utils.load_material(material_path)
+                    additional_keys = f"{additional_keys} --material \"{material_path}\""
 
                 if "environment_path" in case:
                     environment_path = os.path.join(args.res_path, case["environment_path"])
-                    utils.load_environment(environment_path)
+                    additional_keys = f"{additional_keys} --envRad \"{environment_path}\""
 
                 if "enable_environment_drawing" in case and case["enable_environment_drawing"]:
-                    utils.enable_environment_drawing()
+                    additional_keys = f"{additional_keys} --drawEnvironment true"
 
-                sleep(5)
+                execution_script = os.path.abspath(f"{args.tool_path} --cameraPosition 0,0,5 --cameraZoom 0.663 --envSampleCount 256 {additional_keys}")
+
+                if platform.system() == "Windows":
+                    script_path = os.path.join(args.output, "{}.bat".format(case["case"]))
+                else:
+                    script_path = os.path.join(args.output, "{}.sh".format(case["case"]))
+
+                utils.open_tool(script_path, execution_script)
+
+                sleep(15)
 
                 utils.save_image(image_path)
 
