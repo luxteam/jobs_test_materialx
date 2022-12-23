@@ -111,6 +111,8 @@ def open_tool(script_path, execution_script):
 
     if platform.system() == "Windows":
         win32gui.ShowWindow(window_hwnd, win32con.SW_MAXIMIZE)
+    else:
+        pyautogui.hotkey("win", "up")
 
     time.sleep(3)
 
