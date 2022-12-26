@@ -7,7 +7,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Base"
+            "Bark Bark Base"
         ]
     },
     {
@@ -18,7 +18,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Beech"
+            "Bark Bark Beech"
         ]
     },
     {
@@ -29,7 +29,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Oak"
+            "Bark Bark Oak"
         ]
     },
     {
@@ -40,7 +40,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Pine"
+            "Bark Bark Pine"
         ]
     },
     {
@@ -51,7 +51,7 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Smooth"
+            "Bark Bark Smooth"
         ]
     },
     {
@@ -62,19 +62,18 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Brown"
+            "Bark TH Bark Brown"
         ]
     },
     {
         "case": "WML_007",
         "status": "active",
-        "scene": "WML/Bark_TH_Old_Bark_Brown.usda",
         "mesh_path": "sphere.obj",
         "material_path": "Bark_TH_Old_Bark_Brown.mtlx",
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Old Brown"
+            "Bark TH Old Bark Brown"
         ]
     },
     {
@@ -85,7 +84,4715 @@
         "environment_path": "san_giuseppe_bridge.hdr",
         "enable_environment_drawing": true,
         "script_info": [
-            "Bark Tree"
+            "Bark TH Tree Bark"
+        ]
+    },
+    {
+        "case": "WML_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Acryl_Plastic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Acryl Plastic"
+        ]
+    },
+    {
+        "case": "WML_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Aluminum.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Aluminum"
+        ]
+    },
+    {
+        "case": "WML_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Black_Plastic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Black Plastic"
+        ]
+    },
+    {
+        "case": "WML_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Brass.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Brass"
+        ]
+    },
+    {
+        "case": "WML_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Bronze.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Bronze"
+        ]
+    },
+    {
+        "case": "WML_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Chrome.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Chrome"
+        ]
+    },
+    {
+        "case": "WML_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Cobalt.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Cobalt"
+        ]
+    },
+    {
+        "case": "WML_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Copper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Copper"
+        ]
+    },
+    {
+        "case": "WML_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Dark_Glass.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Dark Glass"
+        ]
+    },
+    {
+        "case": "WML_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Diamond.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Diamond"
+        ]
+    },
+    {
+        "case": "WML_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Frosted_Glass.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Frosted Glass"
+        ]
+    },
+    {
+        "case": "WML_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Glass.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Glass"
+        ]
+    },
+    {
+        "case": "WML_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Gold.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Gold"
+        ]
+    },
+    {
+        "case": "WML_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Iron.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Iron"
+        ]
+    },
+    {
+        "case": "WML_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Red_Wine.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Red Wine"
+        ]
+    },
+    {
+        "case": "WML_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Rough_Plastic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Rough Plastic"
+        ]
+    },
+    {
+        "case": "WML_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Rubber.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Rubber"
+        ]
+    },
+    {
+        "case": "WML_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Semitransparent_Silicone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Semitransparent Silicone"
+        ]
+    },
+    {
+        "case": "WML_027",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_White_Plastic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials White Plastic"
+        ]
+    },
+    {
+        "case": "WML_028",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_White_Wine.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials White Wine"
+        ]
+    },
+    {
+        "case": "WML_029",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Bricks"
+        ]
+    },
+    {
+        "case": "WML_030",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Bricks_Basic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Bricks Basic"
+        ]
+    },
+    {
+        "case": "WML_031",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Brick_Irregular.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Brick Irregular"
+        ]
+    },
+    {
+        "case": "WML_032",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Red_Brick_Wall_Weathered.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Red Brick Wall Weathered"
+        ]
+    },
+    {
+        "case": "WML_033",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Brick_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Brick Wall"
+        ]
+    },
+    {
+        "case": "WML_034",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Burnt_Brick_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Burnt Brick Wall"
+        ]
+    },
+    {
+        "case": "WML_035",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle Bricks"
+        ]
+    },
+    {
+        "case": "WML_036",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_Brick_Broken.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle Brick Broken"
+        ]
+    },
+    {
+        "case": "WML_037",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_Brown_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle Brown Bricks"
+        ]
+    },
+    {
+        "case": "WML_038",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_White_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle White Bricks"
+        ]
+    },
+    {
+        "case": "WML_039",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Church_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Church Bricks"
+        ]
+    },
+    {
+        "case": "WML_040",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Church_Red_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Church Red Bricks"
+        ]
+    },
+    {
+        "case": "WML_041",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Crumbling_Sandstone_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Crumbling Sandstone Bricks"
+        ]
+    },
+    {
+        "case": "WML_042",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Factory_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Factory Bricks"
+        ]
+    },
+    {
+        "case": "WML_043",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Joint_Yellow_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Joint Yellow Brick"
+        ]
+    },
+    {
+        "case": "WML_044",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Large_Red_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Large Red Bricks"
+        ]
+    },
+    {
+        "case": "WML_045",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Light_Brown_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Light Brown Brick"
+        ]
+    },
+    {
+        "case": "WML_046",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Old_Castle_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Old Castle Brick"
+        ]
+    },
+    {
+        "case": "WML_047",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Old_White_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Old White Bricks"
+        ]
+    },
+    {
+        "case": "WML_048",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Plaster_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Plaster Brick"
+        ]
+    },
+    {
+        "case": "WML_049",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Random_Bricks_Thick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Random Bricks Thick"
+        ]
+    },
+    {
+        "case": "WML_050",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Red_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Red Brick"
+        ]
+    },
+    {
+        "case": "WML_051",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Red_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Red Bricks"
+        ]
+    },
+    {
+        "case": "WML_052",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Red_Brick_Plastered.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Red Brick Plastered"
+        ]
+    },
+    {
+        "case": "WML_053",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Wall_Bricks_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Wall Bricks Plaster"
+        ]
+    },
+    {
+        "case": "WML_054",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_White_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH White Bricks"
+        ]
+    },
+    {
+        "case": "WML_055",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_White_Sandstone_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH White Sandstone Bricks"
+        ]
+    },
+    {
+        "case": "WML_056",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Yellow_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Yellow Bricks"
+        ]
+    },
+    {
+        "case": "WML_057",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Broken_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Broken Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_058",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Color.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Color"
+        ]
+    },
+    {
+        "case": "WML_059",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_060",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Large.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Large"
+        ]
+    },
+    {
+        "case": "WML_061",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Square.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Square"
+        ]
+    },
+    {
+        "case": "WML_062",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Dark_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Dark Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_063",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Floor_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Floor Pattern"
+        ]
+    },
+    {
+        "case": "WML_064",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Gray_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Gray Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_065",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Light_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Light Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_066",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Medieval_Cobblestone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Medieval Cobblestone"
+        ]
+    },
+    {
+        "case": "WML_067",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Moss_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Moss Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_068",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Old_Cobblestone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Old Cobblestone"
+        ]
+    },
+    {
+        "case": "WML_069",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Old_Floor_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Old Floor Pattern"
+        ]
+    },
+    {
+        "case": "WML_070",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Old_Medieval_Cobblestone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Old Medieval Cobblestone"
+        ]
+    },
+    {
+        "case": "WML_071",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Pink_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Pink Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_072",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Yellow_Cobblestone_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Yellow Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_073",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Cement_Shells_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Cement Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_074",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Cement_Wall_with_Shells.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Cement Wall with Shells"
+        ]
+    },
+    {
+        "case": "WML_075",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Cement_Wall_with_Starfish.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Cement Wall with Starfish"
+        ]
+    },
+    {
+        "case": "WML_076",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Concrete_Plain.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Concrete Plain"
+        ]
+    },
+    {
+        "case": "WML_077",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Concrete_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Concrete Planks"
+        ]
+    },
+    {
+        "case": "WML_078",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Concrete_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Concrete Tiles"
+        ]
+    },
+    {
+        "case": "WML_079",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Detailed_Ramshorn_Shells_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Detailed Ramshorn Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_080",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Gray_Cement_Shells_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Gray Cement Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_081",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Gray_Ramshorn_Shells_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Gray Ramshorn Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_082",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Ramshorn_Shells_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Ramshorn Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_083",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Red_Stone_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Red Stone Wall"
+        ]
+    },
+    {
+        "case": "WML_084",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Smooth_Concrete.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Smooth Concrete"
+        ]
+    },
+    {
+        "case": "WML_085",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Stone_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Stone Wall"
+        ]
+    },
+    {
+        "case": "WML_086",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Stone_Wall_Combination.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Stone Wall Combination"
+        ]
+    },
+    {
+        "case": "WML_087",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Bricks_Concrete_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Bricks Concrete Wall"
+        ]
+    },
+    {
+        "case": "WML_088",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Floor"
+        ]
+    },
+    {
+        "case": "WML_089",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Floor_Worn.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Floor Worn"
+        ]
+    },
+    {
+        "case": "WML_090",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Old_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Old Floor"
+        ]
+    },
+    {
+        "case": "WML_091",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Wall"
+        ]
+    },
+    {
+        "case": "WML_092",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Dirty_Concrete.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Dirty Concrete"
+        ]
+    },
+    {
+        "case": "WML_093",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Rubble_Concrete_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Rubble Concrete Floor"
+        ]
+    },
+    {
+        "case": "WML_094",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Wall_of_Shells.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Wall of Shells"
+        ]
+    },
+    {
+        "case": "WML_095",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_White_Stone_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete White Stone Wall"
+        ]
+    },
+    {
+        "case": "WML_096",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_Stylized_Flagstones.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring Stylized Flagstones"
+        ]
+    },
+    {
+        "case": "WML_097",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Aerial_Asphalt.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Aerial Asphalt"
+        ]
+    },
+    {
+        "case": "WML_098",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Brick_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Brick Floor"
+        ]
+    },
+    {
+        "case": "WML_099",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Brick_Moss.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Brick Moss"
+        ]
+    },
+    {
+        "case": "WML_100",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Cathedral_Floor_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Cathedral Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_101",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Diagonal_Brick_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Diagonal Brick Floor"
+        ]
+    },
+    {
+        "case": "WML_102",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Floor_Klinkers.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Floor Klinkers"
+        ]
+    },
+    {
+        "case": "WML_103",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Floor_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_104",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Gray_Floor_Bricks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Gray Floor Bricks"
+        ]
+    },
+    {
+        "case": "WML_105",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Large_Floor_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Large Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_106",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Large_Grey_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Large Grey Tiles"
+        ]
+    },
+    {
+        "case": "WML_107",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Large_Square_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Large Square Pattern"
+        ]
+    },
+    {
+        "case": "WML_108",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Old_Floor_Klinkers.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Old Floor Klinkers"
+        ]
+    },
+    {
+        "case": "WML_109",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Pavement.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Pavement"
+        ]
+    },
+    {
+        "case": "WML_110",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Road_Asphalt.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Road Asphalt"
+        ]
+    },
+    {
+        "case": "WML_111",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Sidewalk_Brick_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Sidewalk Brick Floor"
+        ]
+    },
+    {
+        "case": "WML_112",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Square_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Square Floor"
+        ]
+    },
+    {
+        "case": "WML_113",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Square_Floor_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Square Floor Pattern"
+        ]
+    },
+    {
+        "case": "WML_114",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Yellow_Floor_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Yellow Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_115",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Aegean_Herringbone_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Aegean Herringbone Fabric"
+        ]
+    },
+    {
+        "case": "WML_116",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Black_and_White_Gingham_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Black and White Gingham Fabric"
+        ]
+    },
+    {
+        "case": "WML_117",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Black_Upholstery.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Black Upholstery"
+        ]
+    },
+    {
+        "case": "WML_118",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Blue_Pixel_Linen_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Blue Pixel Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_119",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Blue_Shibori_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Blue Shibori Fabric"
+        ]
+    },
+    {
+        "case": "WML_120",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Blush_Mottled_Linen.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Blush Mottled Linen"
+        ]
+    },
+    {
+        "case": "WML_121",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Braid_Jumper_Knitted_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Braid Jumper Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_122",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Carrot_Knitted_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Carrot Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_123",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Charcoal_Garda_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Charcoal Garda Fabric"
+        ]
+    },
+    {
+        "case": "WML_124",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Chunky_Weave_Cushion_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Chunky Weave Cushion Fabric"
+        ]
+    },
+    {
+        "case": "WML_125",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Daisy_Checker_Knitted_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Daisy Checker Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_126",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Emerald_Waves_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Emerald Waves Fabric"
+        ]
+    },
+    {
+        "case": "WML_127",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Forest_Green_Jumper_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Forest Green Jumper Fabric"
+        ]
+    },
+    {
+        "case": "WML_128",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Gaiusboro_Honeycomb_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Gaiusboro Honeycomb Fabric"
+        ]
+    },
+    {
+        "case": "WML_129",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Hazel_Wood_Ikat_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Hazel Wood Ikat Fabric"
+        ]
+    },
+    {
+        "case": "WML_130",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Khaki_Green_Linen_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Khaki Green Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_131",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Latour_Blue_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Latour Blue Fabric"
+        ]
+    },
+    {
+        "case": "WML_132",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Lemons_Woollen_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Lemons Woollen Fabric"
+        ]
+    },
+    {
+        "case": "WML_133",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Linen_Hikari_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Linen Hikari Fabric"
+        ]
+    },
+    {
+        "case": "WML_134",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Magnolia_Curtain_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Magnolia Curtain Fabric"
+        ]
+    },
+    {
+        "case": "WML_135",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Midnight_Blue_Heavy_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Midnight Blue Heavy Fabric"
+        ]
+    },
+    {
+        "case": "WML_136",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Midnite_Fleece_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Midnite Fleece Fabric"
+        ]
+    },
+    {
+        "case": "WML_137",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Motley_Patchwork_Rug.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Motley Patchwork Rug"
+        ]
+    },
+    {
+        "case": "WML_138",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Oblong_Printed_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Oblong Printed Fabric"
+        ]
+    },
+    {
+        "case": "WML_139",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Pale_Coral_Linen_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Pale Coral Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_140",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Pebble_Kilm_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Pebble Kilm Fabric"
+        ]
+    },
+    {
+        "case": "WML_141",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Pine_Cones_Furniture_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Pine Cones Furniture Fabric"
+        ]
+    },
+    {
+        "case": "WML_142",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Porcelain_Ramie_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Porcelain Ramie Fabric"
+        ]
+    },
+    {
+        "case": "WML_143",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Royal_Blue_Linen_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Royal Blue Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_144",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Sage_Houndstooth_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Sage Houndstooth Fabric"
+        ]
+    },
+    {
+        "case": "WML_145",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Sapphire_Ramie_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Sapphire Ramie Fabric"
+        ]
+    },
+    {
+        "case": "WML_146",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Scarf_Blue_Knitted_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Scarf Blue Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_147",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Sky_Velvet_Linen_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Sky Velvet Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_148",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Teal_Corduroy_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Teal Corduroy Fabric"
+        ]
+    },
+    {
+        "case": "WML_149",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Blue_Denim_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Blue Denim Fabric"
+        ]
+    },
+    {
+        "case": "WML_150",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Book_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Book Pattern"
+        ]
+    },
+    {
+        "case": "WML_151",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Brown_Fabric_Leather.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Brown Fabric Leather"
+        ]
+    },
+    {
+        "case": "WML_152",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Brown_Leather.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Brown Leather"
+        ]
+    },
+    {
+        "case": "WML_153",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Denim_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Denim Fabric"
+        ]
+    },
+    {
+        "case": "WML_154",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Fabric_Leather.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Fabric Leather"
+        ]
+    },
+    {
+        "case": "WML_155",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Leather_White.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Leather White"
+        ]
+    },
+    {
+        "case": "WML_156",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Red_Fabric_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Red Fabric Pattern"
+        ]
+    },
+    {
+        "case": "WML_157",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Red_Large_Leather.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Red Large Leather"
+        ]
+    },
+    {
+        "case": "WML_158",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Red_Leather.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Red Leather"
+        ]
+    },
+    {
+        "case": "WML_159",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Tablecloth_Fabric_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Tablecloth Fabric Pattern"
+        ]
+    },
+    {
+        "case": "WML_160",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Tiffany_Blue_Cushion_Fabric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Tiffany Blue Cushion Fabric"
+        ]
+    },
+    {
+        "case": "WML_161",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Ground_Leaves_Cover.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Ground Leaves Cover"
+        ]
+    },
+    {
+        "case": "WML_162",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Ground_River_Bottom.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Ground River Bottom"
+        ]
+    },
+    {
+        "case": "WML_163",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Ground_Soil.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Ground Soil"
+        ]
+    },
+    {
+        "case": "WML_164",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Moss_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Moss Ground"
+        ]
+    },
+    {
+        "case": "WML_165",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Pebbles_Sand.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Pebbles Sand"
+        ]
+    },
+    {
+        "case": "WML_166",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Rocky_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Rocky Ground"
+        ]
+    },
+    {
+        "case": "WML_167",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Shells_Beach_Sand.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Shells Beach Sand"
+        ]
+    },
+    {
+        "case": "WML_168",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Shells_Pebble_Sand.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Shells Pebble Sand"
+        ]
+    },
+    {
+        "case": "WML_169",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Smooth_Beach_Sand.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Smooth Beach Sand"
+        ]
+    },
+    {
+        "case": "WML_170",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_Starfish_Beach_Sand.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground Starfish Beach Sand"
+        ]
+    },
+    {
+        "case": "WML_171",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Coral_Gravel.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Coral Gravel"
+        ]
+    },
+    {
+        "case": "WML_172",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Coral_Rocky_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Coral Rocky Ground"
+        ]
+    },
+    {
+        "case": "WML_173",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Light_Rocks_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Light Rocks Ground"
+        ]
+    },
+    {
+        "case": "WML_174",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Moss_Mountain_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Moss Mountain Ground"
+        ]
+    },
+    {
+        "case": "WML_175",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Mountain_Rocks_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Mountain Rocks Ground"
+        ]
+    },
+    {
+        "case": "WML_176",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Rocks_Dirt_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Rocks Dirt Ground"
+        ]
+    },
+    {
+        "case": "WML_177",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Rocks_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Rocks Ground"
+        ]
+    },
+    {
+        "case": "WML_178",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Ground_TH_Various_Rocks_Ground.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Ground TH Various Rocks Ground"
+        ]
+    },
+    {
+        "case": "WML_179",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Adelie_Brown_Luxury_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Adelie Brown Luxury Flooring"
+        ]
+    },
+    {
+        "case": "WML_180",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Angora_Tinted_Wooden_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Angora Tinted Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_181",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Blue_Beach_Hut_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Blue Beach Hut Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_182",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Buensalido_Concrete_Wood_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Buensalido Concrete Wood Floor"
+        ]
+    },
+    {
+        "case": "WML_183",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Cambridge_Colored_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Cambridge Colored Flooring"
+        ]
+    },
+    {
+        "case": "WML_184",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Cornwall_Oak_Wood_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Cornwall Oak Wood Flooring"
+        ]
+    },
+    {
+        "case": "WML_185",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Cornwall_Toned_Wood_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Cornwall Toned Wood Flooring"
+        ]
+    },
+    {
+        "case": "WML_186",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Crystal_Matrix_Wooden_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Crystal Matrix Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_187",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Dark_Brown_Ash_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Dark Brown Ash Planks"
+        ]
+    },
+    {
+        "case": "WML_188",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Dark_Cedar_Herringbone_Parquet.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Dark Cedar Herringbone Parquet"
+        ]
+    },
+    {
+        "case": "WML_189",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Diamond_Accent_Parquet.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Diamond Accent Parquet"
+        ]
+    },
+    {
+        "case": "WML_190",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Diamond_Matrix_Wooden_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Diamond Matrix Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_191",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Diamond_Wooden_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Diamond Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_192",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Fresco_Oak_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Fresco Oak Flooring"
+        ]
+    },
+    {
+        "case": "WML_193",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Gaize_Dark_Walnut_Mosaic.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Gaize Dark Walnut Mosaic"
+        ]
+    },
+    {
+        "case": "WML_194",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Herringbone_Brown_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Herringbone Brown Flooring"
+        ]
+    },
+    {
+        "case": "WML_195",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_La_Roche_Chateau_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring La Roche Chateau Flooring"
+        ]
+    },
+    {
+        "case": "WML_196",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mahogany_Chevron_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mahogany Chevron Flooring"
+        ]
+    },
+    {
+        "case": "WML_197",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mansion_Weave_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mansion Weave Flooring"
+        ]
+    },
+    {
+        "case": "WML_198",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mazzonetto_Diamonds_Parquet.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mazzonetto Diamonds Parquet"
+        ]
+    },
+    {
+        "case": "WML_199",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mazzonetto_Dices_Parquet.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mazzonetto Dices Parquet"
+        ]
+    },
+    {
+        "case": "WML_200",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Old_Mahogany_Chevron.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Old Mahogany Chevron"
+        ]
+    },
+    {
+        "case": "WML_201",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Old_Painted_Wood_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Old Painted Wood Planks"
+        ]
+    },
+    {
+        "case": "WML_202",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Pale_Oak_Chevron_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Pale Oak Chevron Flooring"
+        ]
+    },
+    {
+        "case": "WML_203",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Redwood_Pine_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Redwood Pine Planks"
+        ]
+    },
+    {
+        "case": "WML_204",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Rose_Beige_Cambridge_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Rose Beige Cambridge Flooring"
+        ]
+    },
+    {
+        "case": "WML_205",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Solid_Natural_Wooden_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Solid Natural Wooden Planks"
+        ]
+    },
+    {
+        "case": "WML_206",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Stack_Bond_Brown_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Stack Bond Brown Wood"
+        ]
+    },
+    {
+        "case": "WML_207",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Wembley_Chestnut_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Wembley Chestnut Flooring"
+        ]
+    },
+    {
+        "case": "WML_208",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Wheat_Classic_Chevron.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Wheat Classic Chevron"
+        ]
+    },
+    {
+        "case": "WML_209",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Blue_Ethnic_Wooden_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Blue Ethnic Wooden Floor"
+        ]
+    },
+    {
+        "case": "WML_210",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Blue_Geo_Wooden_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Blue Geo Wooden Floor"
+        ]
+    },
+    {
+        "case": "WML_211",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Blue_Mosaic_Wooden_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Blue Mosaic Wooden Floor"
+        ]
+    },
+    {
+        "case": "WML_212",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Tinted_Wooden_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Tinted Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_213",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Arabescato_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Arabescato Marble"
+        ]
+    },
+    {
+        "case": "WML_214",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Argentinian_Layered_Onyx.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Argentinian Layered Onyx"
+        ]
+    },
+    {
+        "case": "WML_215",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Blue_Dune_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Blue Dune Marble"
+        ]
+    },
+    {
+        "case": "WML_216",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Blue_Emperador_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Blue Emperador Marble"
+        ]
+    },
+    {
+        "case": "WML_217",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Cream_Onyx.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Cream Onyx"
+        ]
+    },
+    {
+        "case": "WML_218",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Dimgrey_Decorative_Granite.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Dimgrey Decorative Granite"
+        ]
+    },
+    {
+        "case": "WML_219",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Granite.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Granite"
+        ]
+    },
+    {
+        "case": "WML_220",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Green_Alps_Polished_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Green Alps Polished Marble"
+        ]
+    },
+    {
+        "case": "WML_221",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Grey_Chateau_Solid_Granite.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Grey Chateau Solid Granite"
+        ]
+    },
+    {
+        "case": "WML_222",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Lucia_Black_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Lucia Black Marble"
+        ]
+    },
+    {
+        "case": "WML_223",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Brown.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Brown"
+        ]
+    },
+    {
+        "case": "WML_224",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Light_Gray.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Light Gray"
+        ]
+    },
+    {
+        "case": "WML_225",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Light_Red.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Light Red"
+        ]
+    },
+    {
+        "case": "WML_226",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Orange_Streaks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Orange Streaks"
+        ]
+    },
+    {
+        "case": "WML_227",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Red.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Red"
+        ]
+    },
+    {
+        "case": "WML_228",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Variable_Color.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Variable Color"
+        ]
+    },
+    {
+        "case": "WML_229",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Yellow.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Yellow"
+        ]
+    },
+    {
+        "case": "WML_230",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Milan_Polished_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Milan Polished Marble"
+        ]
+    },
+    {
+        "case": "WML_231",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Moss_Green_Solid_Granite.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Moss Green Solid Granite"
+        ]
+    },
+    {
+        "case": "WML_232",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Oasis_Blue_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Oasis Blue Marble"
+        ]
+    },
+    {
+        "case": "WML_233",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Oasis_Green_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Oasis Green Marble"
+        ]
+    },
+    {
+        "case": "WML_234",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Onyx_Gray_Streaked.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Onyx Gray Streaked"
+        ]
+    },
+    {
+        "case": "WML_235",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Pale_Pink_Carrara_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Pale Pink Carrara Marble"
+        ]
+    },
+    {
+        "case": "WML_236",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Portoro_Green_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Portoro Green Marble"
+        ]
+    },
+    {
+        "case": "WML_237",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Rain_Forest_Green_Onyx.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Rain Forest Green Onyx"
+        ]
+    },
+    {
+        "case": "WML_238",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Rosso_Verona_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Rosso Verona Marble"
+        ]
+    },
+    {
+        "case": "WML_239",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Semper_Marble_Gold.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Semper Marble Gold"
+        ]
+    },
+    {
+        "case": "WML_240",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Sicilian_Beige_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Sicilian Beige Marble"
+        ]
+    },
+    {
+        "case": "WML_241",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Simple_Marble_light_blue.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Simple Marble light blue"
+        ]
+    },
+    {
+        "case": "WML_242",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Arabescato_Blue_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Arabescato Blue Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_243",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Bardiglio_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Bardiglio Marble"
+        ]
+    },
+    {
+        "case": "WML_244",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Bianco_Statuario_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Bianco Statuario Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_245",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Brown_Portuguese_Ceramic_Tile.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Brown Portuguese Ceramic Tile"
+        ]
+    },
+    {
+        "case": "WML_246",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Circle_Marble_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Circle Marble Pattern"
+        ]
+    },
+    {
+        "case": "WML_247",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Classical_Marble_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Classical Marble Pattern"
+        ]
+    },
+    {
+        "case": "WML_248",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Cremo_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Cremo Marble"
+        ]
+    },
+    {
+        "case": "WML_249",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Guatemala_Blue_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Guatemala Blue Marble"
+        ]
+    },
+    {
+        "case": "WML_250",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Iberian_Calcite_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Iberian Calcite Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_251",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Imperial_Jade_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Imperial Jade Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_252",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Marble_Green_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Marble Green Pattern"
+        ]
+    },
+    {
+        "case": "WML_253",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_254",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Mosaic_Marble_Pattern.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Mosaic Marble Pattern"
+        ]
+    },
+    {
+        "case": "WML_255",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Picasso_Black_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Picasso Black Marble"
+        ]
+    },
+    {
+        "case": "WML_256",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Pinwheel_Pattern_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Pinwheel Pattern Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_257",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Porcelain_Vitrified_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Porcelain Vitrified Tiles"
+        ]
+    },
+    {
+        "case": "WML_258",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_TH_Beige_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles TH Beige Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_259",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_TH_Marble_Floor_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles TH Marble Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_260",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Verde_Guatemala_Slatted_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Verde Guatemala Slatted Marble"
+        ]
+    },
+    {
+        "case": "WML_261",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Tiles_Weave_Pattern_Marble_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Tiles Weave Pattern Marble Tiles"
+        ]
+    },
+    {
+        "case": "WML_262",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Travertine_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Travertine Marble"
+        ]
+    },
+    {
+        "case": "WML_263",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Verde_Alpi_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Verde Alpi Marble"
+        ]
+    },
+    {
+        "case": "WML_264",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Verdi_Almi_Marble.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Verdi Almi Marble"
+        ]
+    },
+    {
+        "case": "WML_265",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Brushed.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Brushed"
+        ]
+    },
+    {
+        "case": "WML_266",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Corrugated.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Corrugated"
+        ]
+    },
+    {
+        "case": "WML_267",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Matte.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Matte"
+        ]
+    },
+    {
+        "case": "WML_268",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Parametric.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Parametric"
+        ]
+    },
+    {
+        "case": "WML_269",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Brass_Brushed.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Brass Brushed"
+        ]
+    },
+    {
+        "case": "WML_270",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Brass_Satin.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Brass Satin"
+        ]
+    },
+    {
+        "case": "WML_271",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Cast_Iron_Damaged.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Cast Iron Damaged"
+        ]
+    },
+    {
+        "case": "WML_272",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Copper_Brushed.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Copper Brushed"
+        ]
+    },
+    {
+        "case": "WML_273",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Copper_Old.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Copper Old"
+        ]
+    },
+    {
+        "case": "WML_274",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Copper_Satin.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Copper Satin"
+        ]
+    },
+    {
+        "case": "WML_275",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Galvanized_Metal.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Galvanized Metal"
+        ]
+    },
+    {
+        "case": "WML_276",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Gold_Foil.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Gold Foil"
+        ]
+    },
+    {
+        "case": "WML_277",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Gold_Parametric_Imperfections.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Gold Parametric Imperfections"
+        ]
+    },
+    {
+        "case": "WML_278",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Iron_Hammered.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Iron Hammered"
+        ]
+    },
+    {
+        "case": "WML_279",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Stainless_Steel_Brushed.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Stainless Steel Brushed"
+        ]
+    },
+    {
+        "case": "WML_280",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Factory_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Factory Wall"
+        ]
+    },
+    {
+        "case": "WML_281",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Green_Metal_Rust.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Green Metal Rust"
+        ]
+    },
+    {
+        "case": "WML_282",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Metal_Plate.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Metal Plate"
+        ]
+    },
+    {
+        "case": "WML_283",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Rusty_Metal.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Rusty Metal"
+        ]
+    },
+    {
+        "case": "WML_284",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Rusty_Metallic_Profile.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Rusty Metallic Profile"
+        ]
+    },
+    {
+        "case": "WML_285",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Nero_Flooring_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Nero Flooring Tiles"
+        ]
+    },
+    {
+        "case": "WML_286",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Nickel.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Nickel"
+        ]
+    },
+    {
+        "case": "WML_287",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Paint_Car_Paint.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Paint Car Paint"
+        ]
+    },
+    {
+        "case": "WML_288",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Paint_Old_Paint.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Paint Old Paint"
+        ]
+    },
+    {
+        "case": "WML_289",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_Plaster_Scratched.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster Plaster Scratched"
+        ]
+    },
+    {
+        "case": "WML_290",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_Simple_plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster Simple plaster"
+        ]
+    },
+    {
+        "case": "WML_291",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Clay_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Clay Floor"
+        ]
+    },
+    {
+        "case": "WML_292",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Clean_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Clean Plaster"
+        ]
+    },
+    {
+        "case": "WML_293",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Crumbling_Rough_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Crumbling Rough Plaster"
+        ]
+    },
+    {
+        "case": "WML_294",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Dirty_Gray_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Dirty Gray Plaster"
+        ]
+    },
+    {
+        "case": "WML_295",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Dirt_Plaster_Rough.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Dirt Plaster Rough"
+        ]
+    },
+    {
+        "case": "WML_296",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Gray_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Gray Plaster"
+        ]
+    },
+    {
+        "case": "WML_297",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Medieval_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Medieval Wall"
+        ]
+    },
+    {
+        "case": "WML_298",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Moss_Plaster_Rough.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Moss Plaster Rough"
+        ]
+    },
+    {
+        "case": "WML_299",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Old_Gray_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Old Gray Plaster"
+        ]
+    },
+    {
+        "case": "WML_300",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Old_Rough_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Old Rough Plaster"
+        ]
+    },
+    {
+        "case": "WML_301",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Old_Yellow_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Old Yellow Plaster"
+        ]
+    },
+    {
+        "case": "WML_302",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Rough_Plasterbrick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Rough Plasterbrick"
+        ]
+    },
+    {
+        "case": "WML_303",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Rough_Plaster_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Rough Plaster Brick"
+        ]
+    },
+    {
+        "case": "WML_304",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Rough_Plaster_Broken.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Rough Plaster Broken"
+        ]
+    },
+    {
+        "case": "WML_305",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Sandstone_Cracks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Sandstone Cracks"
+        ]
+    },
+    {
+        "case": "WML_306",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_White_Rough_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH White Rough Plaster"
+        ]
+    },
+    {
+        "case": "WML_307",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Yellow_Plaster.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Yellow Plaster"
+        ]
+    },
+    {
+        "case": "WML_308",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plastic_Carbon_biColor_Coat.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plastic Carbon biColor Coat"
+        ]
+    },
+    {
+        "case": "WML_309",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plastic_Patterned_Resin_Floor.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plastic Patterned Resin Floor"
+        ]
+    },
+    {
+        "case": "WML_310",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_Sandstone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone Sandstone"
+        ]
+    },
+    {
+        "case": "WML_311",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Aerial_Moss_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Aerial Moss Rock"
+        ]
+    },
+    {
+        "case": "WML_312",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Aerial_Mountain_Rocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Aerial Mountain Rocks"
+        ]
+    },
+    {
+        "case": "WML_313",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Aerial_Rocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Aerial Rocks"
+        ]
+    },
+    {
+        "case": "WML_314",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Gray_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Gray Rock"
+        ]
+    },
+    {
+        "case": "WML_315",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Gray_Rocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Gray Rocks"
+        ]
+    },
+    {
+        "case": "WML_316",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Light_Brown_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Light Brown Rock"
+        ]
+    },
+    {
+        "case": "WML_317",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Ligth_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Ligth Rock"
+        ]
+    },
+    {
+        "case": "WML_318",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Mossy_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Mossy Rock"
+        ]
+    },
+    {
+        "case": "WML_319",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Old_Stone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Old Stone"
+        ]
+    },
+    {
+        "case": "WML_320",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Red_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Red Rock"
+        ]
+    },
+    {
+        "case": "WML_321",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Rock"
+        ]
+    },
+    {
+        "case": "WML_322",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Smooth_Stone.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Smooth Stone"
+        ]
+    },
+    {
+        "case": "WML_323",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Volcano_Rock.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Volcano Rock"
+        ]
+    },
+    {
+        "case": "WML_324",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Ceramic_Roof.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Ceramic Roof"
+        ]
+    },
+    {
+        "case": "WML_325",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Ceramic_Roof_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Ceramic Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_326",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Gray_Ceramic_Roof.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Gray Ceramic Roof"
+        ]
+    },
+    {
+        "case": "WML_327",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Grey_Roof_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Grey Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_328",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Moss_Gray_Roof_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Moss Gray Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_329",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Old_Roof_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Old Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_330",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Old_Wooden_Roof.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Old Wooden Roof"
+        ]
+    },
+    {
+        "case": "WML_331",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Reed_Roof.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Reed Roof"
+        ]
+    },
+    {
+        "case": "WML_332",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Riet_Roof.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Riet Roof"
+        ]
+    },
+    {
+        "case": "WML_333",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Roof_3.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Roof 3"
+        ]
+    },
+    {
+        "case": "WML_334",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Roof_Slates.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Roof Slates"
+        ]
+    },
+    {
+        "case": "WML_335",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Slate_Roof_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Slate Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_336",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_Aluminum_Hexagon.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi Aluminum Hexagon"
+        ]
+    },
+    {
+        "case": "WML_337",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_Chains.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi Chains"
+        ]
+    },
+    {
+        "case": "WML_338",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_Perforated_Metal.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi Perforated Metal"
+        ]
+    },
+    {
+        "case": "WML_339",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_SciFi_Brick.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi SciFi Brick"
+        ]
+    },
+    {
+        "case": "WML_340",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Glazed_Cell_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Glazed Cell Tiles"
+        ]
+    },
+    {
+        "case": "WML_341",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Glazed_Cube_Pattern_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Glazed Cube Pattern Tiles"
+        ]
+    },
+    {
+        "case": "WML_342",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Glazed_Mosaic_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Glazed Mosaic Tiles"
+        ]
+    },
+    {
+        "case": "WML_343",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Gold_Edged_Leaf_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Gold Edged Leaf Tiles"
+        ]
+    },
+    {
+        "case": "WML_344",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Iberian_Beige_Ceramic_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Iberian Beige Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_345",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Iberian_Blue_Ceramic_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Iberian Blue Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_346",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Iberian_Green_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Iberian Green Tiles"
+        ]
+    },
+    {
+        "case": "WML_347",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Jade_Tiles_Irregular_Bond.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Jade Tiles Irregular Bond"
+        ]
+    },
+    {
+        "case": "WML_348",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Moroccan_Hexagonal_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Moroccan Hexagonal Tiles"
+        ]
+    },
+    {
+        "case": "WML_349",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Mosaic_Vines_Ceramic_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Mosaic Vines Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_350",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Sodalite_Marble_and_Gold_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Sodalite Marble and Gold Tiles"
+        ]
+    },
+    {
+        "case": "WML_351",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Tiles_Black_Long_Variative.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Tiles Black Long Variative"
+        ]
+    },
+    {
+        "case": "WML_352",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Wavy_Colored_Ceramic_Tiles.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Wavy Colored Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_353",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Umber_Chevron_Flooring.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Umber Chevron Flooring"
+        ]
+    },
+    {
+        "case": "WML_354",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Umber_Classic_Chevron.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Umber Classic Chevron"
+        ]
+    },
+    {
+        "case": "WML_355",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Art_Deco_Gatsby_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Art Deco Gatsby Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_356",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Bluemine_Linen_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Bluemine Linen Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_357",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Boutique_Maroon_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Boutique Maroon Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_358",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Canary_Art_Deco_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Canary Art Deco Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_359",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Cyan_Floral_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Cyan Floral Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_360",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Flower_Parade_Pink_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Flower Parade Pink Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_361",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Flower_Power_Vintage_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Flower Power Vintage Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_362",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Fresco_Decor_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Fresco Decor Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_363",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Green_Herringbone_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Green Herringbone Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_364",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Green_Moroccan_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Green Moroccan Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_365",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Indigo_and_Copper_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Indigo and Copper Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_366",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Lozenge_Aegean_Blue_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Lozenge Aegean Blue Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_367",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Mocha_Decor_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Mocha Decor Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_368",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Oblong_Indigo_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Oblong Indigo Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_369",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Olive_Green_Damask_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Olive Green Damask Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_370",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Retro_Geometric_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Retro Geometric Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_371",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Retro_Mood_Aqua_Blue_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Retro Mood Aqua Blue Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_372",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Retro_Mood_Mocca_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Retro Mood Mocca Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_373",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Retro_Mood_Olive_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Retro Mood Olive Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_374",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Retro_Scalloped_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Retro Scalloped Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_375",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Retro_Style_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Retro Style Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_376",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Sashiko_Green_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Sashiko Green Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_377",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Sashiko_Navy_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Sashiko Navy Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_378",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Sashiko_Taupe_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Sashiko Taupe Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_379",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Serene_Sage_Linen_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Serene Sage Linen Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_380",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Triton_Bordeaux_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Triton Bordeaux Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_381",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Victorian_Vintage_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Victorian Vintage Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_382",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Vintage_Flower_Wallpaper.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Vintage Flower Wallpaper"
+        ]
+    },
+    {
+        "case": "WML_383",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wallpaper_Wallpaper_vertical_damask.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wallpaper Wallpaper vertical damask"
+        ]
+    },
+    {
+        "case": "WML_384",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Broken_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Broken Wall"
+        ]
+    },
+    {
+        "case": "WML_385",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Castle_Wall_Slates.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Castle Wall Slates"
+        ]
+    },
+    {
+        "case": "WML_386",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Castle_Wall_Variation.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Castle Wall Variation"
+        ]
+    },
+    {
+        "case": "WML_387",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Crafted_Medieval_Blocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Crafted Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_388",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Crude_Medieval_Blocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Crude Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_389",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Defense_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Defense Wall"
+        ]
+    },
+    {
+        "case": "WML_390",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Large_Sandstone_Blocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Large Sandstone Blocks"
+        ]
+    },
+    {
+        "case": "WML_391",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Medieval_Blocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_392",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Old_Defense_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Old Defense Wall"
+        ]
+    },
+    {
+        "case": "WML_393",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Red_Medieval_Blocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Red Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_394",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Rough_Block_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Rough Block Wall"
+        ]
+    },
+    {
+        "case": "WML_395",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Sandstone_Blocks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Sandstone Blocks"
+        ]
+    },
+    {
+        "case": "WML_396",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Ash_Brown_Solid_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Ash Brown Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_397",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Atlantis_Beige_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Atlantis Beige Wood"
+        ]
+    },
+    {
+        "case": "WML_398",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Canyon_Maple_Dark_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Canyon Maple Dark Wood"
+        ]
+    },
+    {
+        "case": "WML_399",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Coffee_Beech_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Coffee Beech Wood"
+        ]
+    },
+    {
+        "case": "WML_400",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_European_Beech_Hardwood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood European Beech Hardwood"
+        ]
+    },
+    {
+        "case": "WML_401",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Galloway_Brown_Oak.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Galloway Brown Oak"
+        ]
+    },
+    {
+        "case": "WML_402",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Harbour_Oak_Grey_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Harbour Oak Grey Wood"
+        ]
+    },
+    {
+        "case": "WML_403",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Ivory_Walnut_Solid_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Ivory Walnut Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_404",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Light_Berry_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Light Berry Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_405",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Mahogany_Varnished.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Mahogany Varnished"
+        ]
+    },
+    {
+        "case": "WML_406",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Mahogany_Walnut_Solid_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Mahogany Walnut Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_407",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Oliana_Blue_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Oliana Blue Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_408",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Painted_Wood_Mermaid_Boards.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Painted Wood Mermaid Boards"
+        ]
+    },
+    {
+        "case": "WML_409",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Pale_Oak_Solid_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Pale Oak Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_410",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Pickle_Green_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Pickle Green Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_411",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Sacramento_Green_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Sacramento Green Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_412",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Sage_Satin_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Sage Satin Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_413",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Stone_Blue_Painted_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Stone Blue Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_414",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Beam_Wall.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Beam Wall"
+        ]
+    },
+    {
+        "case": "WML_415",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Blue_Painted_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Blue Painted Planks"
+        ]
+    },
+    {
+        "case": "WML_416",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Dark_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Dark Planks"
+        ]
+    },
+    {
+        "case": "WML_417",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Dry_Brown_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Dry Brown Planks"
+        ]
+    },
+    {
+        "case": "WML_418",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Fine_Grained_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Fine Grained Wood"
+        ]
+    },
+    {
+        "case": "WML_419",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Gray_Old_Boards.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Gray Old Boards"
+        ]
+    },
+    {
+        "case": "WML_420",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Gray_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Gray Planks"
+        ]
+    },
+    {
+        "case": "WML_421",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Green_Rough_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Green Rough Planks"
+        ]
+    },
+    {
+        "case": "WML_422",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Kitchen_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Kitchen Wood"
+        ]
+    },
+    {
+        "case": "WML_423",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Light_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Light Planks"
+        ]
+    },
+    {
+        "case": "WML_424",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Medieval_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Medieval Wood"
+        ]
+    },
+    {
+        "case": "WML_425",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Moss_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Moss Wood"
+        ]
+    },
+    {
+        "case": "WML_426",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_New_Brown_Boards.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH New Brown Boards"
+        ]
+    },
+    {
+        "case": "WML_427",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Old_Brown_Boards.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Old Brown Boards"
+        ]
+    },
+    {
+        "case": "WML_428",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Old_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Old Planks"
+        ]
+    },
+    {
+        "case": "WML_429",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Planks_Llight_Brown.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Planks Llight Brown"
+        ]
+    },
+    {
+        "case": "WML_430",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Plywood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Plywood"
+        ]
+    },
+    {
+        "case": "WML_431",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Rough_Wood.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Rough Wood"
+        ]
+    },
+    {
+        "case": "WML_432",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Wooden_Rough_Planks.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Wooden Rough Planks"
+        ]
+    },
+    {
+        "case": "WML_433",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Wood_Planks_Dirt.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Wood Planks Dirt"
+        ]
+    },
+    {
+        "case": "WML_434",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Wood_Table.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Wood Table"
+        ]
+    },
+    {
+        "case": "WML_435",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Wood_Beech_Coated.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Wood Beech Coated"
+        ]
+    },
+    {
+        "case": "WML_436",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Wood_Beech_Raw.mtlx",
+        "environment_path": "san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Wood Beech Raw"
         ]
     }
 ]
