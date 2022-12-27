@@ -1,0 +1,46 @@
+[
+    {
+        "case": "WML_SCIFI_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_Aluminum_Hexagon.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi Aluminum Hexagon"
+        ]
+    },
+    {
+        "case": "WML_SCIFI_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_Chains.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi Chains"
+        ]
+    },
+    {
+        "case": "WML_SCIFI_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_Perforated_Metal.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi Perforated Metal"
+        ]
+    },
+    {
+        "case": "WML_SCIFI_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "SciFi_SciFi_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "SciFi SciFi Brick"
+        ]
+    }
+]

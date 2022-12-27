@@ -1,0 +1,310 @@
+[
+    {
+        "case": "WML_BRICK_WALL_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Bricks_Basic.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Bricks Basic"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Brick_Irregular.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Brick Irregular"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_Red_Brick_Wall_Weathered.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall Red Brick Wall Weathered"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Brick_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Brick Wall"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Burnt_Brick_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Burnt Brick Wall"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_Brick_Broken.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle Brick Broken"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_Brown_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle Brown Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Castle_White_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Castle White Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Church_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Church Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Church_Red_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Church Red Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Crumbling_Sandstone_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Crumbling Sandstone Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Factory_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Factory Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Joint_Yellow_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Joint Yellow Brick"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Large_Red_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Large Red Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Light_Brown_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Light Brown Brick"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Old_Castle_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Old Castle Brick"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Old_White_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Old White Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Plaster_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Plaster Brick"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Random_Bricks_Thick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Random Bricks Thick"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Red_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Red Brick"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Red_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Red Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Red_Brick_Plastered.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Red Brick Plastered"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Wall_Bricks_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Wall Bricks Plaster"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_White_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH White Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_027",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_White_Sandstone_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH White Sandstone Bricks"
+        ]
+    },
+    {
+        "case": "WML_BRICK_WALL_028",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Brick_Wall_TH_Yellow_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Brick Wall TH Yellow Bricks"
+        ]
+    }
+]

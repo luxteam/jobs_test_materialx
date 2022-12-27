@@ -6,8 +6,8 @@
     <execute command='python "{ResourcesDir}/simpleRender.py"' timeout="2400">
         <argument>--output "{OutputDir}"</argument>
         <argument>--tool_path "{Tool}"</argument>
-        <argument>--test_group WML</argument>
-        <argument>--res_path "{ScenesDir}/WML"</argument>
+        <argument>--test_group WML_Roofing</argument>
+        <argument>--res_path "{ScenesDir}/WML_Roofing"</argument>
         <argument>--test_cases "{TestCases}"</argument>
         <argument>--retries {Retries}</argument>
     </execute>

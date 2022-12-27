@@ -1,0 +1,508 @@
+[
+    {
+        "case": "WML_FABRICS_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Aegean_Herringbone_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Aegean Herringbone Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Black_and_White_Gingham_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Black and White Gingham Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Black_Upholstery.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Black Upholstery"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Blue_Pixel_Linen_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Blue Pixel Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Blue_Shibori_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Blue Shibori Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Blush_Mottled_Linen.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Blush Mottled Linen"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Braid_Jumper_Knitted_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Braid Jumper Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Carrot_Knitted_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Carrot Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Charcoal_Garda_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Charcoal Garda Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Chunky_Weave_Cushion_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Chunky Weave Cushion Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Daisy_Checker_Knitted_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Daisy Checker Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Emerald_Waves_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Emerald Waves Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Forest_Green_Jumper_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Forest Green Jumper Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Gaiusboro_Honeycomb_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Gaiusboro Honeycomb Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Hazel_Wood_Ikat_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Hazel Wood Ikat Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Khaki_Green_Linen_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Khaki Green Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Latour_Blue_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Latour Blue Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Lemons_Woollen_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Lemons Woollen Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Linen_Hikari_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Linen Hikari Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Magnolia_Curtain_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Magnolia Curtain Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Midnight_Blue_Heavy_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Midnight Blue Heavy Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Midnite_Fleece_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Midnite Fleece Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Motley_Patchwork_Rug.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Motley Patchwork Rug"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Oblong_Printed_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Oblong Printed Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Pale_Coral_Linen_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Pale Coral Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Pebble_Kilm_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Pebble Kilm Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_027",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Pine_Cones_Furniture_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Pine Cones Furniture Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_028",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Porcelain_Ramie_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Porcelain Ramie Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_029",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Royal_Blue_Linen_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Royal Blue Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_030",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Sage_Houndstooth_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Sage Houndstooth Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_031",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Sapphire_Ramie_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Sapphire Ramie Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_032",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Scarf_Blue_Knitted_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Scarf Blue Knitted Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_033",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Sky_Velvet_Linen_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Sky Velvet Linen Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_034",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Teal_Corduroy_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Teal Corduroy Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_035",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Blue_Denim_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Blue Denim Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_036",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Book_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Book Pattern"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_037",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Brown_Fabric_Leather.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Brown Fabric Leather"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_038",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Brown_Leather.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Brown Leather"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_039",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Denim_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Denim Fabric"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_040",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Fabric_Leather.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Fabric Leather"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_041",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Leather_White.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Leather White"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_042",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Red_Fabric_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Red Fabric Pattern"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_043",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Red_Large_Leather.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Red Large Leather"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_044",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Red_Leather.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Red Leather"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_045",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_TH_Tablecloth_Fabric_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics TH Tablecloth Fabric Pattern"
+        ]
+    },
+    {
+        "case": "WML_FABRICS_046",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Fabrics_Tiffany_Blue_Cushion_Fabric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Fabrics Tiffany Blue Cushion Fabric"
+        ]
+    }
+]

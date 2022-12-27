@@ -1,0 +1,222 @@
+[
+    {
+        "case": "WML_METAL_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Brushed.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Brushed"
+        ]
+    },
+    {
+        "case": "WML_METAL_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Corrugated.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Corrugated"
+        ]
+    },
+    {
+        "case": "WML_METAL_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Matte.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Matte"
+        ]
+    },
+    {
+        "case": "WML_METAL_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Aluminum_Parametric.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Aluminum Parametric"
+        ]
+    },
+    {
+        "case": "WML_METAL_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Brass_Brushed.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Brass Brushed"
+        ]
+    },
+    {
+        "case": "WML_METAL_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Brass_Satin.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Brass Satin"
+        ]
+    },
+    {
+        "case": "WML_METAL_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Cast_Iron_Damaged.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Cast Iron Damaged"
+        ]
+    },
+    {
+        "case": "WML_METAL_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Copper_Brushed.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Copper Brushed"
+        ]
+    },
+    {
+        "case": "WML_METAL_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Copper_Old.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Copper Old"
+        ]
+    },
+    {
+        "case": "WML_METAL_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Copper_Satin.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Copper Satin"
+        ]
+    },
+    {
+        "case": "WML_METAL_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Galvanized_Metal.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Galvanized Metal"
+        ]
+    },
+    {
+        "case": "WML_METAL_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Gold_Foil.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Gold Foil"
+        ]
+    },
+    {
+        "case": "WML_METAL_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Gold_Parametric_Imperfections.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Gold Parametric Imperfections"
+        ]
+    },
+    {
+        "case": "WML_METAL_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Iron_Hammered.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Iron Hammered"
+        ]
+    },
+    {
+        "case": "WML_METAL_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_Stainless_Steel_Brushed.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal Stainless Steel Brushed"
+        ]
+    },
+    {
+        "case": "WML_METAL_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Factory_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Factory Wall"
+        ]
+    },
+    {
+        "case": "WML_METAL_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Green_Metal_Rust.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Green Metal Rust"
+        ]
+    },
+    {
+        "case": "WML_METAL_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Metal_Plate.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Metal Plate"
+        ]
+    },
+    {
+        "case": "WML_METAL_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Rusty_Metal.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Rusty Metal"
+        ]
+    },
+    {
+        "case": "WML_METAL_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Metal_TH_Rusty_Metallic_Profile.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Metal TH Rusty Metallic Profile"
+        ]
+    }
+]

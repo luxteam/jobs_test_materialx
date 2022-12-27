@@ -1,0 +1,134 @@
+[
+    {
+        "case": "WML_WALL_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Broken_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Broken Wall"
+        ]
+    },
+    {
+        "case": "WML_WALL_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Castle_Wall_Slates.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Castle Wall Slates"
+        ]
+    },
+    {
+        "case": "WML_WALL_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Castle_Wall_Variation.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Castle Wall Variation"
+        ]
+    },
+    {
+        "case": "WML_WALL_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Crafted_Medieval_Blocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Crafted Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_WALL_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Crude_Medieval_Blocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Crude Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_WALL_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Defense_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Defense Wall"
+        ]
+    },
+    {
+        "case": "WML_WALL_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Large_Sandstone_Blocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Large Sandstone Blocks"
+        ]
+    },
+    {
+        "case": "WML_WALL_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Medieval_Blocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_WALL_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Old_Defense_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Old Defense Wall"
+        ]
+    },
+    {
+        "case": "WML_WALL_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Red_Medieval_Blocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Red Medieval Blocks"
+        ]
+    },
+    {
+        "case": "WML_WALL_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Rough_Block_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Rough Block Wall"
+        ]
+    },
+    {
+        "case": "WML_WALL_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wall_TH_Sandstone_Blocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wall TH Sandstone Blocks"
+        ]
+    }
+]

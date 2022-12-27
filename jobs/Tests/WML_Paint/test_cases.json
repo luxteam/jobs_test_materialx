@@ -1,0 +1,24 @@
+[
+    {
+        "case": "WML_PAINT_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Paint_Car_Paint.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Paint Car Paint"
+        ]
+    },
+    {
+        "case": "WML_PAINT_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Paint_Old_Paint.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Paint Old Paint"
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "case": "WML_CONCRETE_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Cement_Shells_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Cement Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Cement_Wall_with_Shells.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Cement Wall with Shells"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Cement_Wall_with_Starfish.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Cement Wall with Starfish"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Concrete_Plain.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Concrete Plain"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Concrete_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Concrete Planks"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Concrete_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Concrete Tiles"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Detailed_Ramshorn_Shells_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Detailed Ramshorn Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Gray_Cement_Shells_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Gray Cement Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Gray_Ramshorn_Shells_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Gray Ramshorn Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Ramshorn_Shells_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Ramshorn Shells Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Red_Stone_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Red Stone Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Smooth_Concrete.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Smooth Concrete"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Stone_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Stone Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Stone_Wall_Combination.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Stone Wall Combination"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Bricks_Concrete_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Bricks Concrete Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Floor"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Floor_Worn.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Floor Worn"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Old_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Old Floor"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Concrete_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Concrete Wall"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Dirty_Concrete.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Dirty Concrete"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_TH_Rubble_Concrete_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete TH Rubble Concrete Floor"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_Wall_of_Shells.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete Wall of Shells"
+        ]
+    },
+    {
+        "case": "WML_CONCRETE_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Concrete_White_Stone_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Concrete White Stone Wall"
+        ]
+    }
+]

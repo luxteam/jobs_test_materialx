@@ -1,0 +1,233 @@
+[
+    {
+        "case": "WML_BASE_MATERIALS_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Acryl_Plastic.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Acryl Plastic"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Aluminum.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Aluminum"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Black_Plastic.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Black Plastic"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Brass.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Brass"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Bronze.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Bronze"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Chrome.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Chrome"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Cobalt.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Cobalt"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Copper.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Copper"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Dark_Glass.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Dark Glass"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Diamond.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Diamond"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Frosted_Glass.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Frosted Glass"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Glass.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Glass"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Gold.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Gold"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Iron.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Iron"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Nickel.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Nickel"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Red_Wine.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Red Wine"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Rough_Plastic.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Rough Plastic"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Rubber.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Rubber"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_Semitransparent_Silicone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials Semitransparent Silicone"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_White_Plastic.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials White Plastic"
+        ]
+    },
+    {
+        "case": "WML_BASE_MATERIALS_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Base_Materials_White_Wine.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Base Materials White Wine"
+        ]
+    }
+]

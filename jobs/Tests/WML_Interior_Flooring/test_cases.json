@@ -1,0 +1,398 @@
+[
+    {
+        "case": "WML_INTERIOR_FLOORING_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Adelie_Brown_Luxury_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Adelie Brown Luxury Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Angora_Tinted_Wooden_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Angora Tinted Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Blue_Beach_Hut_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Blue Beach Hut Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Buensalido_Concrete_Wood_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Buensalido Concrete Wood Floor"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Cambridge_Colored_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Cambridge Colored Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Cornwall_Oak_Wood_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Cornwall Oak Wood Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Cornwall_Toned_Wood_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Cornwall Toned Wood Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Crystal_Matrix_Wooden_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Crystal Matrix Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Dark_Brown_Ash_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Dark Brown Ash Planks"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Dark_Cedar_Herringbone_Parquet.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Dark Cedar Herringbone Parquet"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Diamond_Accent_Parquet.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Diamond Accent Parquet"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Diamond_Matrix_Wooden_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Diamond Matrix Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Diamond_Wooden_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Diamond Wooden Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Fresco_Oak_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Fresco Oak Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Gaize_Dark_Walnut_Mosaic.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Gaize Dark Walnut Mosaic"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Herringbone_Brown_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Herringbone Brown Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_La_Roche_Chateau_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring La Roche Chateau Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mahogany_Chevron_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mahogany Chevron Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mansion_Weave_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mansion Weave Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mazzonetto_Diamonds_Parquet.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mazzonetto Diamonds Parquet"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Mazzonetto_Dices_Parquet.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Mazzonetto Dices Parquet"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Old_Mahogany_Chevron.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Old Mahogany Chevron"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Old_Painted_Wood_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Old Painted Wood Planks"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Pale_Oak_Chevron_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Pale Oak Chevron Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Redwood_Pine_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Redwood Pine Planks"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Rose_Beige_Cambridge_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Rose Beige Cambridge Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_027",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Solid_Natural_Wooden_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Solid Natural Wooden Planks"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_028",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Stack_Bond_Brown_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Stack Bond Brown Wood"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_029",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Umber_Chevron_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Umber Chevron Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_030",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Umber_Classic_Chevron.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Umber Classic Chevron"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_031",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Wembley_Chestnut_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Wembley Chestnut Flooring"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_032",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Wheat_Classic_Chevron.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Wheat Classic Chevron"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_033",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Blue_Ethnic_Wooden_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Blue Ethnic Wooden Floor"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_034",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Blue_Geo_Wooden_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Blue Geo Wooden Floor"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_035",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Blue_Mosaic_Wooden_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Blue Mosaic Wooden Floor"
+        ]
+    },
+    {
+        "case": "WML_INTERIOR_FLOORING_036",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Interior_Flooring_Yale_Tinted_Wooden_Flooring.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Interior Flooring Yale Tinted Wooden Flooring"
+        ]
+    }
+]

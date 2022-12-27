@@ -1,0 +1,156 @@
+[
+    {
+        "case": "WML_TILE_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Glazed_Cell_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Glazed Cell Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Glazed_Cube_Pattern_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Glazed Cube Pattern Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Glazed_Mosaic_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Glazed Mosaic Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Gold_Edged_Leaf_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Gold Edged Leaf Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Iberian_Beige_Ceramic_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Iberian Beige Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Iberian_Blue_Ceramic_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Iberian Blue Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Iberian_Green_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Iberian Green Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Jade_Tiles_Irregular_Bond.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Jade Tiles Irregular Bond"
+        ]
+    },
+    {
+        "case": "WML_TILE_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Moroccan_Hexagonal_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Moroccan Hexagonal Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Mosaic_Vines_Ceramic_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Mosaic Vines Ceramic Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Nero_Flooring_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Nero Flooring Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Sodalite_Marble_and_Gold_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Sodalite Marble and Gold Tiles"
+        ]
+    },
+    {
+        "case": "WML_TILE_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Tiles_Black_Long_Variative.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Tiles Black Long Variative"
+        ]
+    },
+    {
+        "case": "WML_TILE_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Tile_Wavy_Colored_Ceramic_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Tile Wavy Colored Ceramic Tiles"
+        ]
+    }
+]

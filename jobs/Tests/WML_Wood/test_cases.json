@@ -1,0 +1,453 @@
+[
+    {
+        "case": "WML_WOOD_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Ash_Brown_Solid_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Ash Brown Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Atlantis_Beige_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Atlantis Beige Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Canyon_Maple_Dark_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Canyon Maple Dark Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Coffee_Beech_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Coffee Beech Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_European_Beech_Hardwood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood European Beech Hardwood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Galloway_Brown_Oak.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Galloway Brown Oak"
+        ]
+    },
+    {
+        "case": "WML_WOOD_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Harbour_Oak_Grey_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Harbour Oak Grey Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Ivory_Walnut_Solid_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Ivory Walnut Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Light_Berry_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Light Berry Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Mahogany_Varnished.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Mahogany Varnished"
+        ]
+    },
+    {
+        "case": "WML_WOOD_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Mahogany_Walnut_Solid_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Mahogany Walnut Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Oliana_Blue_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Oliana Blue Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Painted_Wood_Mermaid_Boards.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Painted Wood Mermaid Boards"
+        ]
+    },
+    {
+        "case": "WML_WOOD_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Pale_Oak_Solid_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Pale Oak Solid Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Pickle_Green_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Pickle Green Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Sacramento_Green_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Sacramento Green Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Sage_Satin_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Sage Satin Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Stone_Blue_Painted_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Stone Blue Painted Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Beam_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Beam Wall"
+        ]
+    },
+    {
+        "case": "WML_WOOD_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Blue_Painted_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Blue Painted Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Dark_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Dark Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Dry_Brown_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Dry Brown Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Fine_Grained_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Fine Grained Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Gray_Old_Boards.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Gray Old Boards"
+        ]
+    },
+    {
+        "case": "WML_WOOD_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Gray_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Gray Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Green_Rough_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Green Rough Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_027",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Kitchen_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Kitchen Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_028",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Light_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Light Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_029",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Medieval_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Medieval Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_030",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Moss_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Moss Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_031",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_New_Brown_Boards.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH New Brown Boards"
+        ]
+    },
+    {
+        "case": "WML_WOOD_032",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Old_Brown_Boards.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Old Brown Boards"
+        ]
+    },
+    {
+        "case": "WML_WOOD_033",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Old_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Old Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_034",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Planks_Llight_Brown.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Planks Llight Brown"
+        ]
+    },
+    {
+        "case": "WML_WOOD_035",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Plywood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Plywood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_036",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Rough_Wood.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Rough Wood"
+        ]
+    },
+    {
+        "case": "WML_WOOD_037",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Wooden_Rough_Planks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Wooden Rough Planks"
+        ]
+    },
+    {
+        "case": "WML_WOOD_038",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Wood_Planks_Dirt.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Wood Planks Dirt"
+        ]
+    },
+    {
+        "case": "WML_WOOD_039",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_TH_Wood_Table.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood TH Wood Table"
+        ]
+    },
+    {
+        "case": "WML_WOOD_040",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Wood_Beech_Coated.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Wood Beech Coated"
+        ]
+    },
+    {
+        "case": "WML_WOOD_041",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Wood_Wood_Beech_Raw.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Wood Wood Beech Raw"
+        ]
+    }
+]

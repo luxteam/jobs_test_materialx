@@ -1,0 +1,24 @@
+[
+    {
+        "case": "WML_PLASTIC_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plastic_Carbon_biColor_Coat.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plastic Carbon biColor Coat"
+        ]
+    },
+    {
+        "case": "WML_PLASTIC_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plastic_Patterned_Resin_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plastic Patterned Resin Floor"
+        ]
+    }
+]

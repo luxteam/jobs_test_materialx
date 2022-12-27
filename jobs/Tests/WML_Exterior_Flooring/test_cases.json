@@ -1,0 +1,211 @@
+[
+    {
+        "case": "WML_EXTERIOR_FLOORING_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_Stylized_Flagstones.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring Stylized Flagstones"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Aerial_Asphalt.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Aerial Asphalt"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Brick_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Brick Floor"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Brick_Moss.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Brick Moss"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Cathedral_Floor_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Cathedral Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Diagonal_Brick_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Diagonal Brick Floor"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Floor_Klinkers.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Floor Klinkers"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Floor_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Gray_Floor_Bricks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Gray Floor Bricks"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Large_Floor_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Large Floor Tiles"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Large_Grey_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Large Grey Tiles"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Large_Square_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Large Square Pattern"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Old_Floor_Klinkers.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Old Floor Klinkers"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Pavement.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Pavement"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Road_Asphalt.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Road Asphalt"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Sidewalk_Brick_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Sidewalk Brick Floor"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Square_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Square Floor"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Square_Floor_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Square Floor Pattern"
+        ]
+    },
+    {
+        "case": "WML_EXTERIOR_FLOORING_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Exterior_Flooring_TH_Yellow_Floor_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Exterior Flooring TH Yellow Floor Tiles"
+        ]
+    }
+]

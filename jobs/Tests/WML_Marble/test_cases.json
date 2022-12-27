@@ -1,0 +1,354 @@
+[
+    {
+        "case": "WML_MARBLE_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Arabescato_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Arabescato Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Argentinian_Layered_Onyx.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Argentinian Layered Onyx"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Blue_Dune_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Blue Dune Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Blue_Emperador_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Blue Emperador Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Cream_Onyx.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Cream Onyx"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Dimgrey_Decorative_Granite.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Dimgrey Decorative Granite"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Granite.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Granite"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Green_Alps_Polished_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Green Alps Polished Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Grey_Chateau_Solid_Granite.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Grey Chateau Solid Granite"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Lucia_Black_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Lucia Black Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Brown.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Brown"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Light_Gray.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Light Gray"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Light_Red.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Light Red"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Orange_Streaks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Orange Streaks"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Red.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Red"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Variable_Color.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Variable Color"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Marble_Yellow.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Marble Yellow"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Milan_Polished_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Milan Polished Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Moss_Green_Solid_Granite.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Moss Green Solid Granite"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_020",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Oasis_Blue_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Oasis Blue Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_021",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Oasis_Green_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Oasis Green Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_022",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Onyx_Gray_Streaked.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Onyx Gray Streaked"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_023",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Pale_Pink_Carrara_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Pale Pink Carrara Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_024",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Portoro_Green_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Portoro Green Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_025",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Rain_Forest_Green_Onyx.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Rain Forest Green Onyx"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_026",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Rosso_Verona_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Rosso Verona Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_027",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Semper_Marble_Gold.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Semper Marble Gold"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_028",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Sicilian_Beige_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Sicilian Beige Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_029",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Simple_Marble_light_blue.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Simple Marble light blue"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_030",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Travertine_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Travertine Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_031",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Verde_Alpi_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Verde Alpi Marble"
+        ]
+    },
+    {
+        "case": "WML_MARBLE_032",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Marble_Verdi_Almi_Marble.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Marble Verdi Almi Marble"
+        ]
+    }
+]

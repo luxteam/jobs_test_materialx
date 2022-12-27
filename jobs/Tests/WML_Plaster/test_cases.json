@@ -1,0 +1,211 @@
+[
+    {
+        "case": "WML_PLASTER_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_Plaster_Scratched.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster Plaster Scratched"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_Simple_plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster Simple plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Clay_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Clay Floor"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Clean_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Clean Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Crumbling_Rough_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Crumbling Rough Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Dirty_Gray_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Dirty Gray Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Dirt_Plaster_Rough.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Dirt Plaster Rough"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Gray_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Gray Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Medieval_Wall.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Medieval Wall"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Moss_Plaster_Rough.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Moss Plaster Rough"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Old_Gray_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Old Gray Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Old_Rough_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Old Rough Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Old_Yellow_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Old Yellow Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Rough_Plasterbrick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Rough Plasterbrick"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Rough_Plaster_Brick.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Rough Plaster Brick"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Rough_Plaster_Broken.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Rough Plaster Broken"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_017",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Sandstone_Cracks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Sandstone Cracks"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_018",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_White_Rough_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH White Rough Plaster"
+        ]
+    },
+    {
+        "case": "WML_PLASTER_019",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Plaster_TH_Yellow_Plaster.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Plaster TH Yellow Plaster"
+        ]
+    }
+]

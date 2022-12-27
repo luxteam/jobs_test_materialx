@@ -1,0 +1,156 @@
+[
+    {
+        "case": "WML_ROCK_STONE_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_Sandstone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone Sandstone"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Aerial_Moss_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Aerial Moss Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Aerial_Mountain_Rocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Aerial Mountain Rocks"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Aerial_Rocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Aerial Rocks"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Gray_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Gray Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Gray_Rocks.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Gray Rocks"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Light_Brown_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Light Brown Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Ligth_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Ligth Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Mossy_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Mossy Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Old_Stone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Old Stone"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Red_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Red Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Rock"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Smooth_Stone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Smooth Stone"
+        ]
+    },
+    {
+        "case": "WML_ROCK_STONE_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Rock_Stone_TH_Volcano_Rock.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Rock Stone TH Volcano Rock"
+        ]
+    }
+]

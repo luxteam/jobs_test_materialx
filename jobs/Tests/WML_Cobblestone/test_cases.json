@@ -1,0 +1,178 @@
+[
+    {
+        "case": "WML_COBBLESTONE_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Broken_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Broken Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Color.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Color"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Large.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Large"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Cobblestone_Square.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Cobblestone Square"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Dark_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Dark Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Floor_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Floor Pattern"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Gray_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Gray Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Light_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Light Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Medieval_Cobblestone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Medieval Cobblestone"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Moss_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Moss Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Old_Cobblestone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Old Cobblestone"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_013",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Old_Floor_Pattern.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Old Floor Pattern"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_014",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Old_Medieval_Cobblestone.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Old Medieval Cobblestone"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_015",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Pink_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Pink Cobblestone Floor"
+        ]
+    },
+    {
+        "case": "WML_COBBLESTONE_016",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Cobblestone_TH_Yellow_Cobblestone_Floor.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Cobblestone TH Yellow Cobblestone Floor"
+        ]
+    }
+]

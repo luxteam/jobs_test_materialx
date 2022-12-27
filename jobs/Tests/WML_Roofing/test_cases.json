@@ -1,0 +1,134 @@
+[
+    {
+        "case": "WML_ROOFING_001",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Ceramic_Roof.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Ceramic Roof"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_002",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Ceramic_Roof_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Ceramic Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_003",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Gray_Ceramic_Roof.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Gray Ceramic Roof"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_004",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Grey_Roof_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Grey Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_005",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Moss_Gray_Roof_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Moss Gray Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_006",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Old_Roof_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Old Roof Tiles"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_007",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Old_Wooden_Roof.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Old Wooden Roof"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_008",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Reed_Roof.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Reed Roof"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_009",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Riet_Roof.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Riet Roof"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_010",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Roof_3.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Roof 3"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_011",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Roof_Slates.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Roof Slates"
+        ]
+    },
+    {
+        "case": "WML_ROOFING_012",
+        "status": "active",
+        "mesh_path": "sphere.obj",
+        "material_path": "Roofing_TH_Slate_Roof_Tiles.mtlx",
+        "environment_path": "textures/san_giuseppe_bridge.hdr",
+        "enable_environment_drawing": true,
+        "script_info": [
+            "Roofing TH Slate Roof Tiles"
+        ]
+    }
+]
