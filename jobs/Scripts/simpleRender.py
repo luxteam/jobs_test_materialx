@@ -195,15 +195,15 @@ def execute_tests(args, current_conf):
                 utils.open_tool(script_path, execution_script)
 
                 if "mesh_path" in case:
-                    mesh_path = os.path.join(args.res_path, case["mesh_path"])
+                    mesh_path = os.path.join(args.res_path, case["mesh_path"]).replace("/", os.sep).replace("\\", os.sep)
                     utils.load_mesh(mesh_path)
 
                 if "material_path" in case:
-                    material_path = os.path.join(args.res_path, case["material_path"])
+                    material_path = os.path.join(args.res_path, case["material_path"]).replace("/", os.sep).replace("\\", os.sep)
                     utils.load_material(material_path)
 
                 if "environment_path" in case:
-                    environment_path = os.path.join(args.res_path, case["environment_path"])
+                    environment_path = os.path.join(args.res_path, case["environment_path"]).replace("/", os.sep).replace("\\", os.sep)
                     utils.load_environment(environment_path)
 
                 if "enable_environment_drawing" in case and case["enable_environment_drawing"]:
