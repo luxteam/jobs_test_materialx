@@ -1,3 +1,96 @@
 {
-    "weights": []
+    "weights": [
+        {
+            "suite_name": "MaterialX_vs_HdRPR",
+            "value": 900
+        },
+        {
+            "suite_name": "WML_Bark",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Base_Materials",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Brick_Wall",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Cobblestone",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Concrete",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Exterior_Flooring",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Fabrics",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Ground",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Interior_Flooring",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Marble",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Marble_Tiles",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Metal",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Paint",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Plaster",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Plastic",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Rock_Stone",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Roofing",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_SciFi",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Tile",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Wall",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Wallpaper",
+            "value": 6963
+        },
+        {
+            "suite_name": "WML_Wood",
+            "value": 6963
+        }
+    ]
 }

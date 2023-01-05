@@ -1,0 +1,28 @@
+{
+    "split": true,
+    "groups": {
+        "MaterialX_vs_HdRPR": "",
+        "WML_Bark": "",
+        "WML_Base_Materials": "",
+        "WML_Brick_Wall": "",
+        "WML_Cobblestone": "",
+        "WML_Concrete": "",
+        "WML_Exterior_Flooring": "",
+        "WML_Fabrics": "",
+        "WML_Ground": "",
+        "WML_Interior_Flooring": "",
+        "WML_Marble": "",
+        "WML_Marble_Tiles": "",
+        "WML_Metal": "",
+        "WML_Paint": "",
+        "WML_Plaster": "",
+        "WML_Plastic": "",
+        "WML_Rock_Stone": "",
+        "WML_Roofing": "",
+        "WML_SciFi": "",
+        "WML_Tile": "",
+        "WML_Wall": "",
+        "WML_Wallpaper": "",
+        "WML_Wood": ""
+    }
+}
